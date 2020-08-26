@@ -1,2 +1,3 @@
-print("hello")
-print("nani")
+print("Hello")
+print("Nani")
+print("Koushik")
